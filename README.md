@@ -4,7 +4,7 @@
 + 使用方法  
     - 创建一个  <script type="text/template" id="template"> </script>
         * 这是一个显示在页面中的歌曲清单(如果不需要可忽略)
-        * 将你要从后台数据中取出放到页面中的信息用 { 键 } 一对大括号包起来
+        * 将从后台数据中取出放到页面中的信息用 { 键 } 一对大括号包起来
         * 例如下面这样
 ```html
 <script type="text/template" id="template">
